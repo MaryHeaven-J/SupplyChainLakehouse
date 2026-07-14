@@ -1,0 +1,9 @@
+OrderID,Product,Quantity,Price,Country
+1001,Laptop,10,50000,India
+1002,Monitor,20,12000,USA
+1003,Keyboard,50,1500,India
+1004,Mouse,100,800,UK
+1005,Laptop,5,50000,Germany
+1006,Monitor,15,12000,Canada
+1007,Keyboard,30,1500,Singapore
+1008,Mouse,200,800,India
