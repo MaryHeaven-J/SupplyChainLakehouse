@@ -65,7 +65,25 @@ High Value Orders
 Normal Orders
 
 ---
+## Project Screenshots
 
+### Bronze Layer
+
+Raw data ingestion into the Lakehouse.
+
+### Silver Layer
+
+Data cleansing:
+- Removed duplicates
+- Removed null values
+- Added revenue calculations
+
+### Gold Layer
+
+Business KPI layer:
+- Country Revenue Analysis
+- Aggregated metrics
+- Reporting-ready dataset
 ## Future Enhancements
 
 - Azure Data Factory
